@@ -77,7 +77,7 @@ boxes.forEach((element) => {
 
 const showWinner = (winner) => {
   msg.innerHTML = `
-    🎉 Congratulations, winner is ${winner} <br> <br>
+    🎉 Congratulations, The winner is ${winner} <br> <br>
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWt1aTA3ZWF6ZDByMXR5dnpycjRlMHV0ZHkyc3o2dWxkaHRpMzBwdSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/SlFxmA7U56mLyHZOLx/giphy.gif" 
          alt="congratulations gif" 
          width="200"/>
